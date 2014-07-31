@@ -1,14 +1,10 @@
 {
   "name": "browser-filesaver",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Cross-browser implementation of W3C saveAs API",
   "main": "FileSaver.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/caseygrun/FileSaver.js.git"
   },
   "keywords": [
     "file",
@@ -17,8 +13,12 @@
   ],
   "author": "Eli Grey",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/caseygrun/FileSaver.js.git/issues"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/browser-filesaver"
   },
-  "homepage": "https://github.com/caseygrun/FileSaver.js.git"
+  "bugs": {
+    "url": "https://github.com/tmpvar/browser-filesaver/issues"
+  },
+  "homepage": "https://github.com/tmpvar/browser-filesaver"
 }
